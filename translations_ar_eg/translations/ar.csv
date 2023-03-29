@@ -490,7 +490,7 @@ Disbursement,الصرف
 Disbursement References,مراجع الصرف
 Disbursement against loan:,الصرف مقابل سلفة:
 Discharge Datetime,تاريخ الخروج
-Discharge Ordered Datetime,تاريخ ووقت طلب الخروج 
+Discharge Ordered Datetime,تاريخ ووقت طلب الخروج
 Discharge date cannot be less than Admission date,لا يمكن أن يكون تاريخ الخروج أقل من تاريخ القبول
 Discount Account,حساب الخصم
 Discount Date,تاريخ الخصم
@@ -1284,7 +1284,7 @@ Please check OpenID Configuration URL,يرجى التحقق من عنوان URL 
 Please check Process Deferred Accounting {0} and submit manually after resolving errors.,"يرجى التحقق من ""معالجة المحاسبة المؤجلة"" {0} وإرسالها يدويًا بعد حل الأخطاء."
 Please check the error message and take necessary actions to fix the error and then restart the reposting again.,يرجى التحقق من رسالة الخطأ واتخاذ الإجراءات اللازمة لإصلاح الخطأ ثم إعادة تشغيل إعادة النشر مرة أخرى.
 Please check your email to confirm the appointment,يرجى التحقق من بريدك الإلكتروني لتأكيد الموعد
-Please clear the,يرجى مسح الـ 
+Please clear the,يرجى مسح الـ
 Please configure Clinical Procedure Consumable Item in {0},يرجى تكوين الصنف المستهلك للإجراء السريري في {0}
 Please contact any of the following users to {} this transaction.,يرجى الاتصال بأي من الموظفين التالين من أجل {} هذه المعاملة.
 Please contact your administrator to extend the credit limits for {0}.,يرجى الاتصال بالمسؤول لديك لتمديد حدود الائتمان لـ {0}.
@@ -2287,7 +2287,7 @@ Expand All,توسيع الكل
 Fail,فشل
 Failed,فشلت
 Fax,فاكس
-Feedback,إستجابة 
+Feedback,إستجابة
 Female,أنثى
 Field Name,اسم الحقل
 Fieldname,اسم الحقل
@@ -2376,7 +2376,7 @@ Period,فترة
 Pincode,رمز Pin
 Plan Name,اسم الخطة
 Please enable pop-ups,يرجى تمكين النوافذ المنبثقة
-Please select Company,الرجاء اختيار شركة 
+Please select Company,الرجاء اختيار شركة
 Please select {0},الرجاء اختيار {0}
 Please set Email Address,يرجى وضع عنوان البريد الإلكتروني
 Portal,بوابة
@@ -2400,7 +2400,7 @@ Received,مستلمة
 Recipients,المستلمين
 Redirect URL,إعادة توجيه URL
 Reference,مرجع
-Reference Date,تاريخ المرجع 
+Reference Date,تاريخ المرجع
 Reference Document,مستند مرجعي
 Reference Document Type,مرجع نوع المستند
 Reference Owner,مرجع المالك
@@ -2569,8 +2569,8 @@ Address and other legal information you may want to put in the footer.,العن�
 Addresses And Contacts,العناوين و جهات الاتصال
 Adds a client custom script to a DocType,إضافة برنامج نصي عميل مخصص إلى DocType
 Adds a custom field to a DocType,DocType اضافة حقل خاص ل
-Admin,مدير النظام 
-Administrator Logged In,تسجيل دخول مدير النظام 
+Admin,مدير النظام
+Administrator Logged In,تسجيل دخول مدير النظام
 Administrator accessed {0} on {1} via IP Address {2}.,.{2} تسجيل دخول مدير النظام {0} بتاريخ {1} عبر العنوان
 Advanced,متقدم
 Advanced Control,تحكم متقدم
@@ -2674,7 +2674,7 @@ Assigned By Me,تكليف مني
 Assigned To,كلف إلى
 Assigned To/Owner,تكليف لـ / المالك
 Assignment,تكليف
-Assignment Complete,تم التكليف 
+Assignment Complete,تم التكليف
 Assignment Completed,تم إنجاز التكليف
 Assignment Rule,قاعدة التكليف
 Assignment Rule User,موظف قاعدة التكليف
@@ -3023,16 +3023,16 @@ Date and Number Format,صيغة التاريخ و الرقم
 Date {0} must be in format: {1},يجب أن يكون التاريخ {0} بالشكل: {1}
 Dates are often easy to guess.,التواريخ غالبا ما تكون سهلة التخمين.
 Day of Week,يوم من الأسبوع
-Days After,بعد أيام 
-Days Before,قبل أيام 
-Days Before or After,قبل أو بعد أيام 
+Days After,بعد أيام
+Days Before,قبل أيام
+Days Before or After,قبل أو بعد أيام
 "Dear System Manager,",عزيزي مدير النظام،
 "Dear User,",عزيزي الموظف،
 Dear {0},عزيزي {0}
 Default Address Template cannot be deleted,لا يمكن حذف النموذج الافتراضي العنوان
 Default Inbox,علبة الوارد الافتراضية
 Default Incoming,الوارد الافتراضي
-Default Outgoing,الصادر الافتراضي 
+Default Outgoing,الصادر الافتراضي
 Default Print Format,طباعة شكل الافتراضي
 Default Print Language,لغة الطباعة الافتراضية
 Default Redirect URI,رابط اعادة التوجيه الافتراضي
@@ -3176,7 +3176,7 @@ Email Server,خادم البريد الإلكتروني
 Email Settings,إعدادات البريد الإلكتروني
 Email Signature,توقيع البريد الالكترونى
 Email Status,حالة البريد الإلكتروني
-Email Sync Option,خيارات مزامنة البريد الإلكتروني 
+Email Sync Option,خيارات مزامنة البريد الإلكتروني
 Email Templates for common queries.,قوالب البريد الإلكتروني للاستعلامات الشائعة.
 Email To,البريد الإلكتروني إلى
 Email Unsubscribe,إلغاء الاشتراك البريد الإلكتروني
@@ -3616,20 +3616,20 @@ Knowledge Base Contributor,مشارك قاعدة المعرفة
 Knowledge Base Editor,محرر قاعدة المعرفة
 LDAP Email Field,LDAP البريد الإلكتروني حقل
 LDAP First Name Field,LDAP الاسم حقل
-LDAP Not Installed,لم يتم تثبيت LDAP 
+LDAP Not Installed,لم يتم تثبيت LDAP
 LDAP Search String,LDAP بحث سلسلة
 "LDAP Search String needs to end with a placeholder, eg sAMAccountName={0}",يجب أن تنتهي سلسلة بحث LDAP بعنصر نائب ، على سبيل المثال sAMAccountName = {0}
 LDAP Security,أمان LDAP
 LDAP Server Url,خادم LDAP رابط
 LDAP Username Field,LDAP اسم الموظف حقل
 LDAP is not enabled.,لم يتم تمكين LDAP.
-Label Help,مساعدة التسمية 
+Label Help,مساعدة التسمية
 Label and Type,التسمية و النوع
 Label is mandatory,التسمية إلزامية
 Landing Page,صفحة الهبوط
 Language,اللغة
 Language Code,كود اللغة
-"Language, Date and Time settings",إعدادات اللغة و التاريخ والوقت 
+"Language, Date and Time settings",إعدادات اللغة و التاريخ والوقت
 Last Active,آخر نشاط في
 Last IP,أخر IP
 Last Known Versions,أخر اصدار معروف
@@ -3675,7 +3675,7 @@ Link Title,رابط العنوان
 "Link that is the website home page. Standard Links (index, login, products, blog, about, contact)",ربط هذا هو الصفحة الرئيسية ل موقع الويب. روابط القياسية ( مؤشر ، تسجيل الدخول ، والمنتجات، مدونة، عن، الاتصال )
 Link to the page you want to open. Leave blank if you want to make it a group parent.,الرابط إلى الصفحة التي تريد فتحها. اتركه فارغا إذا كنت تريد أن تجعل من أحد الأصول المجموعة.
 Linked,مرتبط
-Linked With,مرتبط مع 
+Linked With,مرتبط مع
 Linked with {0},مرتبط ب {0}
 Links,الروابط
 List,قائمة
@@ -3729,11 +3729,11 @@ Mandatory:,إلزامية:
 Mapping Name,اسم الخرائط
 Mappings,تعيينات
 Mark as Read,ضع إشارة مقروء
-Mark as Spam,علامة كدعاية غير مرغوب فيه 
+Mark as Spam,علامة كدعاية غير مرغوب فيه
 Mark as Unread,حدده كغير مقروء
 Markdown,مصغر
 Markdown Editor,محرر مصغر
-Marked As Spam,محددة كدعايات غير مرغوب فيه 
+Marked As Spam,محددة كدعايات غير مرغوب فيه
 Max 500 records at a time,500 سجل كحد أقصى في نفس الوقت
 Max Attachment Size (in MB),أقصى حجم للمرفقات (ميجابايت)
 Max Attachments,الحد الأقصى للمرفقات
@@ -3772,7 +3772,7 @@ Module,وحدة
 Module Def,رقم وحدة برمجية
 Module Name,اسم وحدة
 Module Not Found,لم يتم العثور على وحدة برمجية
-Module Path,مسار وحدة برمجية 
+Module Path,مسار وحدة برمجية
 Module to Export,وحدة لتصدير
 Modules HTML,وحدات HTML
 Monospace,معدل النصوص والشروط
@@ -3901,7 +3901,7 @@ Not allowed to print draft documents,لا يسمح لطباعة مسودات ا�
 Not enough permission to see links,ليس هناك صلاحية كاف لمشاهدة الروابط
 Not in Developer Mode,ليس في وضع مطور البرامج
 Not in Developer Mode! Set in site_config.json or make 'Custom' DocType.,"ليس في وضع المطور! يقع في site_config.json أو جعل DOCTYPE ""مخصص""."
-Note Seen By,ملاحظة تم مشاهدتها بواسطة 
+Note Seen By,ملاحظة تم مشاهدتها بواسطة
 Note:,ملحوظة:
 Note: By default emails for failed backups are sent.,ملاحظة: يتم إرسال رسائل البريد الإلكتروني الافتراضية لعمليات النسخ الاحتياطي الفاشلة.
 Note: Changing the Page Name will break previous URL to this page.,ملاحظة: يؤدي تغيير اسم الصفحة إلى فشل عنوان URL السابق لهذه الصفحة.
@@ -3978,7 +3978,7 @@ Org History,تاريخ المنظمة
 Org History Heading,عنوان تاريخ المنظمة
 Orientation,توجيه
 Original Value,القيمة الأصلية
-Outgoing email account not correct,البريد الالكتروني الصادر غير صحيح 
+Outgoing email account not correct,البريد الالكتروني الصادر غير صحيح
 Output,الناتج
 PDF Page Size,حجم صفحة صيغة PDF
 PDF Settings,إعدادات PDF
@@ -3993,7 +3993,7 @@ Page has expired!,انتهت صلاحية الصفحة!
 Page not found,لم يتم العثور على الصفحة
 Page to show on the website\n,صفحة ستظهر على الموقع الالكتروني
 Pages in Desk (place holders),الصفحات في مكتب (أصحاب مكان)
-Parent,الأصل 
+Parent,الأصل
 Parent Error Snapshot,لقطة شاشة الأصل خطأ
 Parent Label,الإسم الأصل
 Parent Table,الجدول الأصل
@@ -4106,7 +4106,7 @@ Point Allocation Periodicity,دورية تخصيص النقاط
 Points,نقاط
 Points Given,النقاط المقدمة
 Port,المنفذ
-Portal Menu,قائمة البوابة 
+Portal Menu,قائمة البوابة
 Portal Menu Item,صنف قائمة البوابة
 Post,نشر
 Post Comment,نشر تعليقا
@@ -4209,7 +4209,7 @@ Record does not exist,سجل غير موجود
 Records for following doctypes will be filtered,سيتم فلترة السجلات الخاصة بالمجموعات التالية
 Redirect To,إعادة توجيه ل
 Redirect URI Bound To Auth Code,إعادة التوجيه URI ملزمة لكود التفويض
-Redirect URIs,إعادة توجيه URI 
+Redirect URIs,إعادة توجيه URI
 Redis cache server not running. Please contact Administrator / Tech support,خادم ذاكرة التخزين المؤقت Redis لا يعمل. يرجى الاتصال بالدعم الفني / المسؤول
 Ref DocType,المرجع DOCTYPE
 Ref Report DocType,تقرير المرجع DocType
@@ -4488,7 +4488,7 @@ Shop,تسوق
 Short keyboard patterns are easy to guess,من السهل تخمين أنماط لوحة المفاتيح القصيرة
 Show Attachments,عرض المرفقات
 Show Calendar,إظهار التقويم
-Show Dashboard,عرض لوحة المعلومات 
+Show Dashboard,عرض لوحة المعلومات
 Show Full Error and Allow Reporting of Issues to the Developer,إظهار الخطأ الكامل والسماح بالإبلاغ عن المشكلات إلى المطور
 Show Line Breaks after Sections,إظهار فواصل الأسطر بعد الأقسام
 Show Permissions,مشاهدة الصلاحيات
@@ -4530,8 +4530,8 @@ Slack Channel,قناة سلاك
 Slack Webhook Error,خطأ Slack Webhook
 Slack Webhook URL,Slack Webhook URL
 Slack Webhooks for internal integration,Slack Webhooks من أجل التكامل الداخلي
-Slideshow Items,أصناف عرض الشرائح 
-Slideshow Name,اسم عرض الشرائح 
+Slideshow Items,أصناف عرض الشرائح
+Slideshow Name,اسم عرض الشرائح
 Slideshow like display for the website,عرض الشرائح مثل عرض للموقع
 Small Text,نص صغير
 Smallest Currency Fraction Value,أصغر قيمه لكسور العملة
@@ -4583,8 +4583,8 @@ Status: {0},الحالة: {0}
 Steps to verify your login,خطوات التحقق من تسجيل الدخول
 Stores the JSON of last known versions of various installed apps. It is used to show release notes.,يخزن JSON من الإصدارات المعروفة الأخيرة من مختلف التطبيقات المثبتة. يتم استخدامها لعرض ملاحظات الإصدار.
 Straight rows of keys are easy to guess,من السهل تخمين صفوف مستقيمة من المفاتيح
-Stripe Settings,إعدادات Stripe 
-Stripe payment gateway settings,إعدادات بوابة الدفع Stripe 
+Stripe Settings,إعدادات Stripe
+Stripe payment gateway settings,إعدادات بوابة الدفع Stripe
 Style,التنسيق
 Style Settings,إعدادات التنسيق
 "Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange",التنسيق يمثل لون الزر: النجاح-الأخضر ، الخطر-الأحمر ، معكوس-الأسود ، أساسي-أزرق داكن ، المعلومات-أزرق سماوي ، تحذير-برتقالي
@@ -4760,14 +4760,14 @@ Totals Row,الصف الكلي
 Track Changes,تتبع التغيرات
 Track Email Status,تتبع حالة البريد الإلكتروني
 Track Field,حقل المسار
-Track Seen,مشاهدة المسار 
+Track Seen,مشاهدة المسار
 Track Views,طرق عرض المسار
 "Track if your email has been opened by the recipient.\n<br>\nNote: If you're sending to multiple recipients, even if 1 recipient reads the email, it'll be considered ""Opened""","تتبع إذا تم فتح البريد الإلكتروني الخاص بك من قبل المستلم. <br> ملاحظة: إذا كنت ترسل إلى عدة مستلمين ، حتى إذا قرأ أحد المستلمين البريد الإلكتروني ، فسيتم اعتباره ""مفتوح"""
 Track milestones for any document,تتبع المراحل لأي مستند
 Transaction Hash,تجزئة المعاملة
 Transaction Log,سجل المعاملات
 Transaction Log Report,تقرير سجل المعاملات
-Transition Rules,قوانين الانتقال 
+Transition Rules,قوانين الانتقال
 Transitions,الأنتقالات
 Translatable,للترجمة
 Translate {0},ترجمة {0}
@@ -4874,7 +4874,7 @@ User {0} does not have access to this document,الموظف {0} ليس لديه 
 User {0} does not have doctype access via role permission for document {1},لا يملك الموظف {0} حق الوصول إلى النموذج عبر صلاحيات الدور الوظيفي للمستند {1}
 Username,اسم االموظف
 Username {0} already exists,اسم الموظف {0} موجود بالفعل
-Users with role {0}:,موظفين مع الدور الوظيفي{0} 
+Users with role {0}:,موظفين مع الدور الوظيفي{0}
 Uses the Email Address Name mentioned in this Account as the Sender's Name for all emails sent using this Account.,يستخدم اسم عنوان البريد الإلكتروني المذكور في هذا الحساب كاسم المرسل لجميع رسائل البريد الإلكتروني المرسلة باستخدام هذا الحساب.
 Uses the Email Address mentioned in this Account as the Sender for all emails sent using this Account.,يستخدم عنوان البريد الإلكتروني المذكور في هذا الحساب باسم المرسل لجميع رسائل البريد الإلكتروني المرسلة باستخدام هذا الحساب.
 Valid,صحيح
@@ -5134,7 +5134,7 @@ mm-dd-yyyy,شهر-يوم-سنة
 mm/dd/yyyy,شهر/يوم/سنة
 module name...,اسم وحدة برمجية ...
 new type of document,نوع جديد من المستند
-no failed attempts,لا توجد محاولات فاشلة 
+no failed attempts,لا توجد محاولات فاشلة
 none of,أيا من
 ok,حسنا
 ok-circle,دائرة OK-
@@ -5497,7 +5497,7 @@ Failed to create an Event Consumer or an Event Consumer for the current site is 
 Failure,بالفشل
 Fetching default Global Search documents.,جلب مستندات البحث الشامل الافتراضية.
 Fetching posts...,جارٍ جلب المشاركات ...
-Field Mapping,رسم الخرائط 
+Field Mapping,رسم الخرائط
 Field To Check,حقل للتحقق
 File Information,معلومات الملف
 Filter By,مصنف بواسطة
@@ -5517,7 +5517,7 @@ Global Search DocType,البحث الشامل DocType
 Global Search Document Types Reset.,إعادة تعيين أنواع مستندات البحث الشاملة.
 Global Search Settings,إعدادات البحث الشاملة
 Global Shortcuts,اختصارات الشاملة
-Go,انتقل 
+Go,انتقل
 Go to next record,انتقل إلى السجل التالي
 Go to previous record,انتقل إلى السجل السابق
 Google API Settings.,إعدادات واجهة برمجة تطبيقات Google.
@@ -5859,7 +5859,7 @@ of,من
 or attach a,أو إرفاق
 submitted this document {0},قدم هذه المستند {0}
 "tag name..., e.g. #tag",اسم العلامة ... ، على سبيل المثال #tag
-uploaded file,الملف الذي تم رفعه 
+uploaded file,الملف الذي تم رفعه
 via Data Import,عبر استيراد البيانات
 {0} Google Calendar Events synced.,{0} تمت مزامنة أحداث تقويم Google.
 {0} Google Contacts synced.,{0} مزامنة جهات اتصال Google.
@@ -5996,8 +5996,8 @@ Tag,بطاقة شعار
 Template,نموذج
 Thursday,الخميس
 Title,اللقب
-Total,الاجمالي غير شامل الضريبة
-Totals,المجاميع
+Total,الاجمالي
+Totals,الإجماليات
 Tuesday,الثلاثاء
 Type,النوع
 Update,تحديث
@@ -6185,7 +6185,7 @@ Y Field,Y حقل
 You need to be in developer mode to edit this document,يجب أن تكون في وضع المطور لتحرير هذا المستند
 Cards,إشارات
 Community Contribution,مساهمة المجتمع
-Count Filter,عدد الفلاتر 
+Count Filter,عدد الفلاتر
 Dashboard Chart Field,حقل رسم بياني لوحة المعلومات
 Desk Card,بطاقة مكتب
 Desk Chart,رسم بياني مكتبي
@@ -6301,7 +6301,7 @@ Enable Google Indexing,تمكين فهرسة Google
 Authorize API Indexing Access,السماح الوصول إلى فهرسة API
 Indexing Refresh Token,رمز تحديث الفهرسة
 Indexing Authorization Code,رمز ترخيص الفهرسة
-Theme Configuration,تكوين السمة 
+Theme Configuration,تكوين السمة
 Font Properties,خصائص الخط
 Button Rounded Corners,زوايا دائرية بأزرار
 Button Shadows,زر الظلال
@@ -6359,7 +6359,7 @@ Allow API Indexing Access,السماح بالوصول إلى فهرسة API
 Allow Google Indexing Access,السماح بالوصول إلى فهرسة Google
 Custom Documents,المستندات المخصصة
 Could not save customization,تعذر حفظ التخصيص
-Transgender,المتحولين 
+Transgender,المتحولين
 Genderqueer,نوع الجنس
 Non-Conforming,عدم المطابقة
 Prefer not to say,افضل عدم القول
@@ -6516,7 +6516,7 @@ Report Filter,فلتر التقرير
 Wildcard Filter,فلتر البدل
 "Will add ""%"" before and after the query","ستضيف ""٪"" قبل وبعد الاستعلام"
 "Route: Example ""/desk""","المسار: مثال ""/ مكتب"""
-Enable Onboarding,تمكين مساعد بداية العمل 
+Enable Onboarding,تمكين مساعد بداية العمل
 Password Reset Link Generation Limit,حد إنشاء ارتباط إعادة تعيين كلمة المرور
 Hourly rate limit for generating password reset links,حد المعدل بالساعة لإنشاء روابط إعادة تعيين كلمة المرور
 Send document Web View link in email,إرسال ارتباط عرض الويب للمستند بالبريد الإلكتروني
@@ -6770,7 +6770,7 @@ Restoring Deleted Document,استعادة المستند المحذوف
 Invalid template file for import,ملف نموذج غير صحيح للاستيراد
 Invalid or corrupted content for import,محتوى غير صحيح أو تالف للاستيراد
 Value {0} must in {1} format,يجب أن تكون القيمة {0} بتنسيق {1}
-{0} is a mandatory field asdadsf,{0} هو حقل إلزامي 
+{0} is a mandatory field asdadsf,{0} هو حقل إلزامي
 Could not map column {0} to field {1},تعذر تعيين العمود {0} للحقل {1}
 Skipping Duplicate Column {0},تخطي عمود مكرر {0}
 The column {0} has {1} different date formats. Automatically setting {2} as the default format as it is the most common. Please change other values in this column to this format.,العمود {0} له {1} تنسيقات تاريخ مختلفة. تعيين {2} تلقائيًا كتنسيق افتراضي لأنه الأكثر شيوعًا. يرجى تغيير القيم الأخرى في هذا العمود إلى هذا التنسيق.
@@ -6923,7 +6923,7 @@ Address Line 1,العنوان باللغة الأنجليزية
 Please check your email for verification,يرجى التحقق من بريدك الإلكتروني لإنشاء كلمة المرور
 Registered but disabled,الحساب مسجل لكن متوقف برجاء التواصل مع المبيعات
 Show,إظهار
-Outgoing Bills ,الفواتير الصادرة
+Outgoing Bills,الفواتير الصادرة
 Monthly,السنة الماضية
 Yearly,سنوي
 Quarterly,شهري
@@ -6932,9 +6932,9 @@ Daily,يومي
 My Profile,ملفي الشخصي
 My Settings,إعداداتي
 Toggle Full Width,عرض مليء الشاشة
- Items),الأصناف)
- MATCH, تطابق
- or for Department: {0}, أو للإدارة: {0}
+Items),الأصناف)
+MATCH,تطابق
+or for Department: {0},أو للإدارة: {0}
 "From Date can not be greater than or equal to ""To Date""","لا يمكن أن يكون ""من التاريخ"" أكبر من ""حتى تاريخ"" أو مساويًا له"
 'Account' in the Accounting section of Customer {0},الحساب في قسم المحاسبة لدى العميل {0}
 'Default {0} Account' in Company {1},الحساب {0} الافتراضي في الشركة {1}
@@ -6960,10 +6960,10 @@ Add a row at the top,أضف صفًا في الأعلى
 Add a row below the current row,أضف صفًا أسفل الصف الحالي
 Additional,إضافي
 Additional Discount %,خصم إضافي ٪
-Additional Information ,معلومة اضافية
+Additional Information,معلومة اضافية
 Adjustment Against,تعديل مقابل
 Advance Tax,الضريبة المقدمة
-Ageing Report based on ,تقرير الأعمار على أساس
+Ageing Report based on,تقرير الأعمار على أساس
 All Items,جميع الأصناف
 Allow Create Sales Order,السماح بإنشاء أمر مبيعات
 Allow Credit Sale,السماح ببيع دائن
@@ -6971,16 +6971,16 @@ Allow Customer Purchase Order,السماح بأمر شراء العميل
 Allow Partial Payment,السماح بالدفع الجزئي
 Allow Print Last Invoice,السماح بطباعة الفاتورة الأخيرة
 Allow Return,السماح بالإرتجاع
-Allow Submissions in background job,السماح بالترحيل في الخلفية 
+Allow Submissions in background job,السماح بالترحيل في الخلفية
 Allow User to Edit Item Discount,السماح للموظف بتحرير خصم الصنف
 Allow user to edit Additional Discount,السماح للموظف بتعديل الخصم الإضافي
 Allow user to edit Rate,السماح للموظف بتحرير السعر
-Amended document gets the name of the original document if enabled and will be applicable to all submittable doctypes. This is a nonreversible operation. ,يحصل المستند المعدل على اسم المستند الأصلي إذا تم تمكينه وسينطبق على جميع نماذج المستندات القابلة للإرسال. هذه عملية لا رجوع فيها.
+Amended document gets the name of the original document if enabled and will be applicable to all submittable doctypes. This is a nonreversible operation.,يحصل المستند المعدل على اسم المستند الأصلي إذا تم تمكينه وسينطبق على جميع نماذج المستندات القابلة للإرسال. هذه عملية لا رجوع فيها.
 Amount Eligible for Commission,المبلغ المؤهل للعمولة
-Applicant ,طالب وظيفة
+Applicant,طالب وظيفة
 Apply Customer Discount,تطبيق خصم العملاء
 Apply For,التقدم بطلب للحصول
-Apply Tax Withholding Amount ,تطبيق مبلغ ضريبة الخصم والإضافة
+Apply Tax Withholding Amount,تطبيق مبلغ ضريبة الخصم والإضافة
 Apply Type,تطبيق النوع
 Arabic name missing for {} in the company document,الاسم العربي لـ {} مفقود في مستند الشركة
 Auto Apply,تطبيق تلقائي
@@ -6989,7 +6989,7 @@ Auto Delete Draft Invoice,الحذف التلقائي لمسودة الفاتو�
 Auto Fetch Coupon Gifts,الحصول التلقائي على قسائم الهدايا
 Auto Fetch Serial Numbers,الحصول علي الأرقام التسلسلية تلقائيًا
 Auto Set Batch,مجموعة الدفعة
-Auto Write Off Amount ,مبلغ الشطب التلقائي
+Auto Write Off Amount,مبلغ الشطب التلقائي
 Available Credit,الرصيد المتوفر
 Available QTY,الكمية المتوفرة
 B0,ب 0
@@ -7004,7 +7004,7 @@ B7,ب 7
 B8,ب 8
 B9,ب 9
 Backup Files (MB),ملفات النسخ الاحتياطي (ميغا بايت)
-Balance Qty (Stock ,كمية الرصيد في المخزن
+Balance Qty (Stock,كمية الرصيد في المخزن
 Bank Expense Account,حساب مصاريف البنك
 Batch No Available QTY,دفعة غير متوفرة الكمية
 Batch No Expiry Date,دفعة لا تاريخ انتهاء الصلاحية
@@ -7014,7 +7014,7 @@ Business Short Code,الرمز المختصر للأعمال
 C5E,C5E
 Cannot change docstatus from 0 (Draft) to 2 (Cancelled),لا يمكن تغيير حالة المستند من 0 (مسودة) إلى 2 (تم الإلغاء)
 Cannot change docstatus from 1 (Submitted) to 0 (Draft),لا يمكن تغيير حالة المستند من 1 (تم الإرسال) إلى 0 (مسودة)
-Cannot mark Inpatient Record as Discharged since there are unbilled services. ,لا يمكن وضع علامة على سجل المرضى الداخليين على أنه تم تفريغه نظرًا لوجود خدمات غير مسددة.
+Cannot mark Inpatient Record as Discharged since there are unbilled services.,لا يمكن وضع علامة على سجل المرضى الداخليين على أنه تم تفريغه نظرًا لوجود خدمات غير مسددة.
 Cash Mode of Payment,طريقة الدفع النقدي
 Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.||||||,حدد هذا لتمييز الطالب على أنه موجود في حالة عدم حضور الطالب للمعهد للمشاركة أو تمثيل المعهد في أي حدث. ||||||
 Choose an icon,اختر رمزا
@@ -7034,21 +7034,21 @@ Coupon Based,على أساس القسيمة
 Create Link,إنشاء رابط
 Create POS Opening Shift,إنشاء وردية فتح نقاط البيع
 Credit Change,تغيير الائتمان
-Current Employer ,صاحب العمل الحالي
-Customer ,عميل
+Current Employer,صاحب العمل الحالي
+Customer,عميل
 Customer Info,معلومات العميل
 Customer contact created successfully.,تم إنشاء جهة اتصال العميل بنجاح.
 Customer not found,العميل غير موجود
-Customer: ,عميل:
+Customer:,عميل:
 DLE,DLE
 Database Details,تفاصيل قاعدة البيانات
 Database Size (MB),حجم قاعدة البيانات (ميغا بايت)
 Database Space Allowed (MB),مساحة قاعدة البيانات المسموح بها (ميغا بايت)
-Date ,تاريخ
-Date: ,تاريخ:
+Date,تاريخ
+Date:,تاريخ:
 Default Loyalty Program,برنامج الولاء الافتراضي
 Deferred Revenue and Expense,الإيرادات والمصروفات المؤجلة
-Deletion Steps ,خطوات الحذف
+Deletion Steps,خطوات الحذف
 Depreciation Expense Account should be an Income or Expense Account.,يجب أن يكون حساب مصروفات الإهلاك حساب دخل أو حساب.
 Disable System Update Notification,تعطيل إعلام تحديث النظام
 Discount %,خصم ٪
@@ -7056,19 +7056,19 @@ Discussion Reply,الرد على المناقشة
 Discussion Topic,موضوع المناقشة
 Display Additional Notes,عرض ملاحظات إضافية
 Edit Cart,تعديل سلة التسوق
-Employee Responsible ,الموظف المسؤول
+Employee Responsible,الموظف المسؤول
 Erpnext Quota,حصة Erpnext
 Error while processing deferred accounting for Invoice {0},خطأ أثناء معالجة المحاسبة المؤجلة للفاتورة {0}
 Executive,تنفيذي
 Expense Claim Details,تفاصيل مطالبة المصاريف
 Files Space Allowed (MB),مساحة الملفات المسموح بها (ميغا بايت)
 Final Customer Offer,عرض العميل النهائي
-First Name ,الاسم الأول
+First Name,الاسم الأول
 Folio,فوليو
-For Designation ,للتعيين
+For Designation,للتعيين
 For POS Closing Shift Payment Reconciliation,لتسوية مدفوعات إغلاق نقاط البيع
-Fraction of Applicable Earnings ,جزء من الأرباح المطبقة
-Give Item,أعط الصنف 
+Fraction of Applicable Earnings,جزء من الأرباح المطبقة
+Give Item,أعط الصنف
 Give Item Row ID,أعط معرف صف الصنف
 Give Product,أعط المنتج
 Given Quantity,معطى الكمية
@@ -7077,7 +7077,7 @@ Grid Shortcuts,اختصارات الشبكة
 Group not found,المجموعة غير موجودة
 Hide Close Shift,إخفاء إغلاق الوردية
 Hide Variants Items,إخفاء عناصر المتغيرات
-If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'|||,إذا تم استيفاء الشرط ، فسيتم مكافأة الموظف بالنقاط. على سبيل المثال doc.status == 'مغلق' 
+If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'|||,إذا تم استيفاء الشرط ، فسيتم مكافأة الموظف بالنقاط. على سبيل المثال doc.status == 'مغلق'
 In Minutes,في دقائق
 Invalid docstatus,حالة مستند غير صالحة
 Invalid value for maximum Database Space limit. it can be a whole number only.,قيمة غير صالحة للحد الأقصى لمساحة قاعدة البيانات. يمكن أن يكون عددًا صحيحًا فقط.
@@ -7094,7 +7094,7 @@ It is best not to use more than four numbers,من الأفضل عدم استخد
 Item Rate Should Less Then,يجب أن يكون سعر السلعة أقل بعد ذلك
 Items Discounts,خصومات الأصناف
 Items Group,مجموعة العناصر
-Last Odometer Value ,قيمة آخر عداد المسافات
+Last Odometer Value,قيمة آخر عداد المسافات
 Link with Customer,الارتباط بالعميل
 Link with Supplier,الارتباط بالمورد
 Linking Failed,فشل الربط
@@ -7105,7 +7105,7 @@ Loyalty Point,نقطة الولاء
 Loyalty Point Offer Applied,تم تطبيق عرض نقاط الولاء
 Loyalty Point Scheme,نظام نقاط الولاء
 MSISDN,MSISDN
-Max Discount Percentage Allowed ,نسبة الخصم القصوى المسموح بها
+Max Discount Percentage Allowed,نسبة الخصم القصوى المسموح بها
 Max Quantity,الكمية القصوى
 Maximum points allowed after multiplying points with the multiplier value|||(Note: For no limit leave this field empty or set 0),الحد الأقصى للنقاط المسموح بها بعد مضاعفة النقاط بقيمة المضاعف ||| (ملاحظة: لعدم وجود حد ، اترك هذا الحقل فارغًا أو قم بتعيين 0)
 Min Quantity,أقل كمية
@@ -7128,23 +7128,23 @@ Offer,عرض
 Offer Applied,تم تطبيق العرض
 Offer Name,اسم العرض
 Offers,عروض
-On checking this Order from the ,عند التحقق من هذا الأمر من
-Only Deduct Tax On Excess Amount ,فقط خصم الضريبة على المبلغ الزائد
+On checking this Order from the,عند التحقق من هذا الأمر من
+Only Deduct Tax On Excess Amount,فقط خصم الضريبة على المبلغ الزائد
 Only One Use Per Customer,استخدام واحد فقط لكل عميل
 Only {} company(s) allowed and you have {} company(s).Please remove other company or to increase the limit please contact sales,مسموح فقط بـ {} شركة (شركات) ولديك {} شركة (شركات). الرجاء إزالة شركة أخرى أو لزيادة الحد الأقصى ، يرجى الاتصال بالمبيعات
 Org Account Balance,رصيد حساب المؤسسة
 PAY,يدفع
 PDF Page Height (in mm),ارتفاع صفحة PDF (ملم)
 PDF Page Width (in mm),عرض صفحة PDF (ملم)
-POS Awesome,نقاط البيع 
+POS Awesome,نقاط البيع
 POS Awesome Advance Settings,إعدادات متقدمة لنقاط البيع
-POS Awesome Settings,إعدادات نقاط البيع 
+POS Awesome Settings,إعدادات نقاط البيع
 POS Closing Shift,إغلاق وردية لنقاط البيع
 POS Closing Shift Detail,تفاصيل إغلاق وردية لنقاط البيع
 POS Closing Shift Taxes,ضرائب الإغلاق في نقاط البيع
 POS Coupon,قسيمة نقاط البيع
 POS Coupon Detail,تفاصيل قسيمة نقاط البيع
-POS Coupons Detail,كوبونات نقاط البيع 
+POS Coupons Detail,كوبونات نقاط البيع
 POS Offer,عرض نقاط البيع
 POS Offer Detail,تفاصيل عرض نقاط البيع
 POS Offer is disable.,تم تعطيل عرض نقاط البيع
@@ -7158,7 +7158,7 @@ Page Height (in mm),ارتفاع الصفحة (ملم)
 Page Size,مقاس الصفحه
 Page Width (in mm),عرض الصفحة (ملم)
 Page height and width cannot be zero,لا يمكن أن يكون ارتفاع الصفحة وعرضها صفرًا
-Page to show on the website|||,الصفحة المراد عرضها على الموقع 
+Page to show on the website|||,الصفحة المراد عرضها على الموقع
 Paid Change,التغيير المدفوع
 Password set,تعيين كلمة المرور
 Payment Entry is already created or payment account is not matched,تم إنشاء إدخال الدفع بالفعل أو أن حساب الدفع غير مطابق
@@ -7169,7 +7169,7 @@ Please select the correct POS Offer with the same company.,الرجاء تحدي
 Please set Fixed Asset Account in {} against {}.,يرجى تعيين حساب الأصول الثابتة في {} مقابل {}.
 Posting Details,تفاصيل الترحيل
 Press Cmd+Enter to post your comment,اضغط على Cmd + Enter لنشر تعليقك
-Price Discount Scheme ,مخطط خصومات الأسعار
+Price Discount Scheme,مخطط خصومات الأسعار
 Price list Rate,سعر قائمة الأسعار
 Primary Customer Offer,عرض العميل الأساسي
 Print Last Invoice,طباعة الفاتورة الأخيرة
@@ -7180,7 +7180,7 @@ Public Files (MB),الملفات العامة (ميغا بايت)
 QTY,الكمية
 Qualifying Transaction / Item,معاملة / صنف مؤهل
 Quantity and Amount Conditions,شروط الكمية والمبلغ
-Quantity not available for the following items in warehouse {0}. ,الكمية غير متوفرة للعناصر التالية في المخزن {0}.
+Quantity not available for the following items in warehouse {0}.,الكمية غير متوفرة للعناصر التالية في المخزن {0}.
 Quotation Number,رقم عرض السعر
 Recent Orders,الطلبيات الأخيرة
 Redeem Credit,استرداد الرصيد
@@ -7194,21 +7194,21 @@ Referral Code {0} is not exists,رمز الإحالة {0} غير موجود
 Referral Company,شركة الإحالة
 Referral Name,اسم الإحالة
 Register Status,تسجيل الحالة
-Repayment against Loan: ,السداد مقابل السلفة:
+Repayment against Loan:,السداد مقابل السلفة:
 Replace Cheapest Item,استبدال الصنف الأرخص
 Replace Same Item,استبدال نفس الصنف
 Request,طلب
 Reset to default,إعادة تعيين إلى الافتراضي
-Response ,إستجابة
+Response,إستجابة
 Restore Asset,استعادة الأصل
 Revenue,إيرادات
-Role Allowed to Over Bill ,الدور المسموح به لأكثر من قيمة الفاتورة
+Role Allowed to Over Bill,الدور المسموح به لأكثر من قيمة الفاتورة
 Row #{0}: Received Qty must be equal to Accepted + Rejected Qty for Item {1},الصف رقم {0}: يجب أن تكون الكمية المستلمة مساوية للكمية المقبولة + المرفوضة للعنصر {1}
 Row #{0}: Service Start Date cannot be before Invoice Posting Date,الصف # {0}: لا يمكن أن يكون تاريخ بدء الخدمة قبل تاريخ ترحيل الفاتورة
 Row ID,معرف الصف
-Salary Component ,مكون الراتب
+Salary Component,مكون الراتب
 Sales Invoice Reference,مرجع فاتورة المبيعات
-Sales Partner ,شريك المبيعات
+Sales Partner,شريك المبيعات
 Scale Barcode Start With,مقياس الباركود يبدأ بـ
 Scrap Asset,تخريد الأصل
 Scrap/Loss Item: {0} should not have Is Process Loss checked as it is different from  the item to be manufactured or repacked,عنصر الخردة / الضياع: {0} يجب ألا يتم التحقق من فقد العملية لأنه يختلف عن الصنف المراد تصنيعه أو إعادة تعبئته
@@ -7234,7 +7234,7 @@ Space Usage Details,تفاصيل استخدام الفراغ
 Stock Ledger Invariant Check,فحص المخزون لدفتر الأستاذ
 Stock QTY,كمية المخزون
 Stock/Accounts can not be frozen as processing of backdated entries is going on. Please try again later.,لا يمكن تجميد المخزون / الحسابات لأن معالجة الإدخالات القديمة جارية. الرجاء معاودة المحاولة في وقت لاحق.
-Submit Payment ,ترحيل الدفع
+Submit Payment,ترحيل الدفع
 Submit Payments,ترحيل المدفوعات
 Successfully linked to Customer,تم الارتباط بالعميل بنجاح
 Successfully linked to Supplier,تم ربطه بالمورد بنجاح
@@ -7248,7 +7248,7 @@ Tax detail table fetched from item master as a string and stored in this field.|
 Territory not found,لم يتم العثور على المنطقة
 "The Client ID obtained from the Google Cloud Console under <a href=""https://console.cloud.google.com/apis/credentials"">|||""APIs &amp; Services"" &gt; ""Credentials""|||</a>","معرّف العميل الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/apis/credentials""> ||| ""واجهات برمجة التطبيقات والخدمات"" & gt؛ ""أوراق الاعتماد"" ||| </a>"
 "The browser API key obtained from the Google Cloud Console under <a href=""https://console.cloud.google.com/apis/credentials"">|||""APIs &amp; Services"" &gt; ""Credentials""|||</a>","مفتاح واجهة برمجة تطبيقات المتصفح الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/apis/credentials""> ||| ""واجهات برمجة التطبيقات والخدمات"" & gt؛ ""أوراق الاعتماد"" ||| </a>"
-The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,التاريخ الذي سيساهم فيه مكون الراتب مع المبلغ في الأرباح / الخصم في قسيمة الراتب.
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip.,التاريخ الذي سيساهم فيه مكون الراتب مع المبلغ في الأرباح / الخصم في قسيمة الراتب.
 The page you are looking for has gone missing.,الصفحة التي تبحث عنها مفقودة.
 "The project number obtained from Google Cloud Console under <a href=""https://console.cloud.google.com/iam-admin/settings"">|||""IAM &amp; Admin"" &gt; ""Settings""|||</a>","رقم المشروع الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/iam-admin/settings""> ||| ""IAM & amp؛ Admin"" & gt؛ ""إعدادات"" ||| </a>"
 The system is being updated. Please refresh again after a few moments.,يتم تحديث النظام. يرجى التحديث مرة أخرى بعد لحظات قليلة.
@@ -7260,7 +7260,7 @@ This coupon already used !,تم استخدام هذه القسيمة بالفع�
 This field will appear only if the fieldname defined here has value OR the rules are true (examples): |||myfield|||eval:doc.myfield=='My Value'|||eval:doc.age&gt;18,سيظهر هذا الحقل فقط إذا كان اسم الحقل المحدد هنا له قيمة أو كانت القواعد صحيحة (أمثلة): ||| myfield ||| Eval: doc.myfield == 'My Value' ||| Eval: doc.age & gt؛ 18
 This invoice {0} cannot be deleted,لا يمكن حذف هذه الفاتورة {0}
 To duplcate current row,لنسخ الصف الحالي
-To(Year) year can not be less than From(year) ,إلى (سنة) سنة لا يمكن أن تكون أقل من من (سنة)
+To(Year) year can not be less than From(year),إلى (سنة) سنة لا يمكن أن تكون أقل من من (سنة)
 Total Items,إجمالي الأصناف
 Trans Amount,المبلغ المحول
 Trans Amount is required,المبلغ المحول مطلوب
@@ -7281,7 +7281,7 @@ Used Space (MB),المساحة المستخدمة (ميغا بايت)
 Users Allowed,يسمح للموظفين
 View General Ledger,مشاهدة ملف دفتر الأستاذ العام
 Want to join the discussion?,هل تريد الانضمام إلى المناقشة؟
-Work Anniversaries ,احتفالات الذكرى السنوية للعمل
+Work Anniversaries,احتفالات الذكرى السنوية للعمل
 You can redeem credit upto,يمكنك استرداد رصيد يصل حتي
 You can redeem upto,يمكنك استرداد ما يصل حتي
 You site is suspended. Please contact Sales,تم تعليق موقعك. الرجاء الاتصال بقسم المبيعات
@@ -7319,11 +7319,11 @@ New,جديد
 Under Collection,تحت التحصيل
 Collected,محصل
 Bounced Cheque,شيك مرتد
-Pay Cheque ,صرف شيك
-Paid Cheque from Bank ,تم صرف الشيك من البنك
-Pay Cheque from Bank ,صرف الشيك من البنك
-You Can't Pay in Bank before Cheque Reference Date ,لا يمكنك صرف الشيك من البنك قبل تاريخ إستحقاقه
-Please Select Withdrawing Bank ,رجاء إختيار بنك الصرف
+Pay Cheque,صرف شيك
+Paid Cheque from Bank,تم صرف الشيك من البنك
+Pay Cheque from Bank,صرف الشيك من البنك
+You Can't Pay in Bank before Cheque Reference Date,لا يمكنك صرف الشيك من البنك قبل تاريخ إستحقاقه
+Please Select Withdrawing Bank,رجاء إختيار بنك الصرف
 Endorsed,مظهر
 Returned To Customer,مرتد للعميل
 Drawn Bank,البنك المسحوب عليه
@@ -7334,7 +7334,7 @@ Beneficiary Name,إسم المستفيد
 Endorsement Cheque,شيك مظهر
 Withdrawing Bank,البنك الساحب
 Withdrawing Bank Account,حساب البنك الساحب
-Endoser Prty Name ,إسم العميل المظهر له
+Endoser Prty Name,إسم العميل المظهر له
 Endoser Prty Account,حساب العميل المظهر له
 Re Deposit Under Collection,إعادة تحت التحصيل
 Cheque Data,بيانات الشيك
@@ -7362,7 +7362,7 @@ Address Line 1,العنوان باللغة الأنجليزية
 Please check your email for verification,يرجى التحقق من بريدك الإلكتروني لإنشاء كلمة المرور
 Registered but disabled,الحساب مسجل لكن متوقف برجاء التواصل مع المبيعات
 Show,إظهار
-Outgoing Bills ,الفواتير الصادرة
+Outgoing Bills,الفواتير الصادرة
 Monthly,السنة الماضية
 Yearly,سنوي
 Quarterly,شهري
@@ -7378,7 +7378,7 @@ CRM,علاقات العملاء
 Modules,وحدات برمجية
 Employees Working on a Holiday,الموظفون يعملون في يوم الأجازة
 Employee Hours Utilization Based On Timesheet,استخدام ساعات الموظف على أساس الجدول الزمني
-Employee Hours Utilization,استخدام ساعات الموظف 
+Employee Hours Utilization,استخدام ساعات الموظف
 MODULES,وحدات برمجية
 Build,بناء برمجيات
 Excel,إكسل Excel
@@ -7395,7 +7395,7 @@ Fitness center,مركز اللياقة البدنية
 Game room,غرفة الالعاب
 Near park,بالقرب من الحديقة
 On-site Laundry,مغسلة في الموقع
-Playground ,ملعب
+Playground,ملعب
 Pool,حمام سباحة
 Tennis court,ملعب تنس
 Theater room,غرفة المسرح
@@ -7475,11 +7475,11 @@ Payment Request,مطالبة دفع
 Follow UP,متابعة الوحدة
 Contract Starting Date,تاريخ بدء العقد
 Paid Deposit Date,تاريخ الإيداع المدفوع
-Receiving To Customer,تاريخ االتسليم الي العمبل 
+Receiving To Customer,تاريخ االتسليم الي العمبل
 Marketing Entry Date,تاريخ دخول التسويق
 Mentainance End Date,تاريخ انتهاء الصيانة
 Maintenance Entry Date,تاريخ دخول الصيانة
-Receipt From Customer,تلريخ الاستلام من العميل 
+Receipt From Customer,تلريخ الاستلام من العميل
 Contract Expiry Date,تاريخ انتهاء العقد
 Services Value,قيمة الخدمات
 Insurance Value,قيمة التأمين
@@ -7543,16 +7543,16 @@ Rate of Stock UOM,المجموع
 End Date,تاريخ نهاية التعاقد
 Start Date,تاريخ بدء التعاقد
 Sr,م
-From Tenant,على المستأجر      
+From Tenant,على المستأجر
 For Tenant,للمستأجر
 Net Amounts Due,المبلغ
 Net Amounts,صافى المبالغ المستحقة
 Tenant,اسم المستأجر
 Details of amounts owed by the tenant,تفاصيل المبالغ المستحقة على المستأجر
- Details of amounts due to the tenant,تفاصيل المبالغ المستحقة للمستأجر
+Details of amounts due to the tenant,تفاصيل المبالغ المستحقة للمستأجر
 Total From,ألاجمالي
 Total For,ألاجمالي
-Unit Report,تقرير الوحدات 
+Unit Report,تقرير الوحدات
 Property Report,تقرير العقارات
 Number of days that the subscriber has to pay invoices generated by this subscription,عدد الأيام التي يتعين على المشترك دفع الفواتير الناتجة عن هذا التعاقد
 Subscription End Date,تاريخ نهاية التعاقد
@@ -7564,7 +7564,7 @@ Subscription Period,فترة التعاقد
 Subscription Price Based On,يعتمد التعاقد علي
 Subscription Period,فترة التعاقد
 Subscription Settings,إعدادات التعاقدات
-Subscription Period ,مدة التعاقد
+Subscription Period,مدة التعاقد
 Subscription,التعاقدات
 Subscription Management,إدارة التعاقدات
 Partially Completed Maintenance,الصيانة غير المكتملة
@@ -7595,7 +7595,7 @@ Rate of Stock UOM,المجموع
 End Date,تاريخ نهاية التعاقد
 Start Date,تاريخ بدء التعاقد
 Sr,م
-From Tenant,على المستأجر      
+From Tenant,على المستأجر
 For Tenant,للمستأجر
 Net Amounts Due,المبلغ
 Net Amounts,صافى المبالغ المستحقة
@@ -7682,9 +7682,9 @@ Loan  Details,نفاصيل السلفيات
 Loan Security Details,تفاصيل ضمان السلفيات
 Loan Security Code,رمز ضمان السلفة
 Loan To Value Ratio,نسبة السلفيات إلى قيمة
-Loan ,السلفة
+Loan,السلفة
 Against Loan,مقابل السلفة
-Against Loan ,مقابل السلفة
+Against Loan,مقابل السلفة
 Is NPA,هو أصل غير عامل الأداء
 Credit Adjustment Amount,مبلغ تسوية الائتمان
 Debit Adjustment Amount,مبلغ تسوية الخصم
@@ -7784,9 +7784,9 @@ Loan  Details,نفاصيل السلفيات
 Loan Security Details,تفاصيل ضمان السلفيات
 Loan Security Code,رمز ضمان السلفة
 Loan To Value Ratio,نسبة السلفيات إلى قيمة
-Loan ,السلفة
+Loan,السلفة
 Against Loan,مقابل السلفة
-Against Loan ,مقابل السلفة
+Against Loan,مقابل السلفة
 Is NPA,هو أصل غير عامل الأداء
 Credit Adjustment Amount,مبلغ تسوية الائتمان
 Debit Adjustment Amount,مبلغ تسوية الخصم
